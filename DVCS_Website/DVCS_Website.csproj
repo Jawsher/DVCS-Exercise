@@ -371,6 +371,10 @@
     <Compile Include="App_Start\IdentityConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="Change1\Change2.cs" />
+    <Compile Include="Change1\Change3.cs" />
+    <Compile Include="Change1\Change4.cs" />
+    <Compile Include="Change1\Change5.cs" />
     <Compile Include="Contact.aspx.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
